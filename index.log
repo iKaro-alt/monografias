@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.19)  21 NOV 2022 08:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.19)  21 NOV 2022 08:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1027,17 +1027,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
 No file index.bbl.
-[4] [5] (./index.aux) ) 
+[5] [6] (./index.aux) ) 
 Here is how much of TeX's memory you used:
- 18395 strings out of 478238
- 301080 string characters out of 5850455
- 801201 words of memory out of 5000000
- 36196 multiletter control sequences out of 15000+600000
- 532315 words of font info for 137 fonts, out of 8000000 for 9000
+ 18403 strings out of 478238
+ 301143 string characters out of 5850455
+ 801222 words of memory out of 5000000
+ 36197 multiletter control sequences out of 15000+600000
+ 532481 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,11n,106p,1581b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 110i,11n,106p,1581b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/u
 sr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/t
 ype1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx9.pf
@@ -1047,10 +1047,10 @@ mr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texm
 f-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public
 /lm/lmr9.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/shar
 e/texmf-dist/fonts/type1/public/lm/lmss12.pfb>
-Output written on index.pdf (5 pages, 251402 bytes).
+Output written on index.pdf (6 pages, 253493 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 38977 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 38993 words of extra memory for PDF output out of 42996 (max. 10000000)
 
