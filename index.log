@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.19)  21 NOV 2022 14:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.19)  22 NOV 2022 05:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -761,113 +761,113 @@ LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks31
 )
-Package color Info: Redefining color blue on input line 35.
+Package color Info: Redefining color blue on input line 27.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 49.
+(hyperref)                removing `\@ifnextchar' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 49.
+(hyperref)                removing `\afterassignment' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 49.
+(hyperref)                removing `\<def>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@thanks' on input line 49.
+(hyperref)                removing `\@thanks' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 49.
+(hyperref)                removing `\afterassignment' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 49.
+(hyperref)                removing `\<def>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@bs@thanks' on input line 49.
+(hyperref)                removing `\@bs@thanks' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 49.
+(hyperref)                removing `\@ifnextchar' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 49.
+(hyperref)                removing `\afterassignment' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 49.
+(hyperref)                removing `\<def>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@thanks' on input line 49.
+(hyperref)                removing `\@thanks' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 49.
+(hyperref)                removing `\afterassignment' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 49.
+(hyperref)                removing `\<let>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 49.
+(hyperref)                removing `\<def>-command' on input line 29.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@bs@thanks' on input line 49.
+(hyperref)                removing `\@bs@thanks' on input line 29.
 
-Package hyperref Info: Option `colorlinks' set `true' on input line 49.
+Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 \index@idxfile=\write4
 \openout4 = `index.idx'.
 
@@ -895,25 +895,25 @@ Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 (./index.aux)
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-Package hyperref Info: Link coloring ON on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+Package hyperref Info: Link coloring ON on input line 41.
  (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -927,10 +927,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 61.
-LaTeX Info: Redefining \ref on input line 61.
-LaTeX Info: Redefining \pageref on input line 61.
-LaTeX Info: Redefining \nameref on input line 61.
+LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 \myptabbox=\box59
 \myptabboxwidth=\skip264
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -955,18 +955,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 61.
-Package microtype Info: Applying patch `item' on input line 61.
-Package microtype Info: Applying patch `toc' on input line 61.
-Package microtype Info: Applying patch `eqnum' on input line 61.
-Package microtype Info: Applying patch `footnote' on input line 61.
+LaTeX Info: Redefining \microtypecontext on input line 41.
+Package microtype Info: Applying patch `item' on input line 41.
+Package microtype Info: Applying patch `toc' on input line 41.
+Package microtype Info: Applying patch `eqnum' on input line 41.
+Package microtype Info: Applying patch `footnote' on input line 41.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 61.
+LaTeX Info: Redefining \showhyphens on input line 41.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -975,47 +975,47 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
 0.
 
 (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
 0.
 
 (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-70.
+50.
 
 (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-70.
+50.
 
 (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 70.
+(Font)              <12> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 70.
+(Font)              <8> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 70.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
+(Font)              <6> on input line 50.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
 0.
 
 (/usr/share/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 70.
+(Font)              <9> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 70.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 7
+(Font)              <5> on input line 50.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 5
 1.
 
 (/usr/share/texmf-dist/tex/latex/lm/t1lmss.fd
@@ -1025,40 +1025,65 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+ [1
 
-No file index.toc.
-[1
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./index.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 4.
+) [2]
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+LaTeX Warning: Citation `wing2006computational' on page 3 undefined on input li
+ne 103.
 
-] [3] [4] [5]
-No file index.bbl.
-[6]
-\tf@toc=\write5
-\openout5 = `index.toc'.
+[3
 
- (./index.aux) ) 
+] [4] [5] [6] (./index.bbl
+No file index.brf.
+\tf@brf=\write5
+\openout5 = `index.brf'.
+
+bibitemlist
+) [7]
+\tf@toc=\write6
+\openout6 = `index.toc'.
+
+ (./index.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `index.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `index.brf':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  0E1D592916C0048C0271043A3C267A5D;55.
+ ) 
 Here is how much of TeX's memory you used:
- 18415 strings out of 478238
- 301200 string characters out of 5850455
- 799222 words of memory out of 5000000
- 36190 multiletter control sequences out of 15000+600000
- 533264 words of font info for 148 fonts, out of 8000000 for 9000
+ 18467 strings out of 478238
+ 302042 string characters out of 5850455
+ 799224 words of memory out of 5000000
+ 36221 multiletter control sequences out of 15000+600000
+ 544658 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,11n,106p,1002b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/shar
-e/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/pu
-blic/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr
-/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/
-type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pf
-b></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/
-fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr
-9.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf
--dist/fonts/type1/public/lm/lmss12.pfb>
-Output written on index.pdf (6 pages, 256006 bytes).
+ 110i,11n,106p,1002b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
+nts/enc/dvips/lm/lm-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx10
+.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf-d
+ist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/l
+m/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/
+texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pf
+b>
+Output written on index.pdf (7 pages, 273578 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 38985 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 45137 words of extra memory for PDF output out of 51595 (max. 10000000)
 

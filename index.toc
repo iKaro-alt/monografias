@@ -1,10 +1,11 @@
 \changetocdepth {4}
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {section}{\numberline {1}Introdução}{2}{section.0.1}%
-\contentsline {section}{\numberline {2}Contexto social do ensino de tecnologia}{2}{section.0.2}%
-\contentsline {section}{\numberline {3}Como as tecnologias digitais de informação e comunicação afetam o ensino}{4}{section.0.3}%
-\contentsline {section}{\numberline {4}Como ensinar tecnologia nas escolas de maneira efetiva}{5}{section.0.4}%
-\contentsline {section}{\numberline {5}O ensino de tecnologia como ferramenta para a cidadania}{6}{section.0.5}%
-\contentsline {section}{\numberline {6}Conclusão}{6}{section.0.6}%
+\contentsline {section}{\numberline {1}Introdução}{3}{section.0.1}%
+\contentsline {section}{\numberline {2}Contexto social do ensino de tecnologia}{3}{section.0.2}%
+\contentsline {section}{\numberline {3}Como as tecnologias digitais de informação e comunicação afetam o ensino}{5}{section.0.3}%
+\contentsline {section}{\numberline {4}Como ensinar tecnologia nas escolas de maneira efetiva}{6}{section.0.4}%
+\contentsline {section}{\numberline {5}O ensino da tecnologia como ferramenta para a cidadania}{7}{section.0.5}%
+\contentsline {section}{\numberline {6}Conclusão}{7}{section.0.6}%
 \vspace {\cftbeforepartskip }
+\contentsline {chapter}{Refer\^encias}{7}{chapter*.6}%

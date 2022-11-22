@@ -1,0 +1,14 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Wing 2006]{wing2006computational}
+\abntrefinfo{Wing}{WING}{2006}
+{WING, J.~M. Computational thinking.
+\emph{Communications of the ACM}, ACM New York, NY, USA, v.~49, n.~3, p.
+  33--35, 2006.}
+
+\end{thebibliography}
